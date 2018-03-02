@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Merriweather:700');
+
+/* 
+font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+ */
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6,h7{
+}
+
+.explainer {
+    color: gray;
+    margin-bottom: 1em;
+}
+
+#controls {
+    text-align: center;
+}
+
+input[type="text"]{
+    width: 75%;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    
+}
+
+input[type="button"]{
+    margin-left: 4px;
+}
+	     
+input{
+    font-size: 18px;
+    margin-top: 1em;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+    border-bottom: 1px solid lightgray;
+}
+
+.card[data-show='false']{
+    display:none;
+}
+
+
+
