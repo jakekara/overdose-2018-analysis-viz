@@ -1,6 +1,6 @@
 backports.functools-lru-cache==1.5
 census==0.8.6
-certifi==2018.1.18
+certifi==2022.12.7
 chardet==3.0.4
 idna==2.6
 jellyfish==0.5.6
